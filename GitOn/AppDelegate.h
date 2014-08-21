@@ -7,6 +7,7 @@
 //
 
 //Practicing my commits
+//My name is Alex
 
 #import <UIKit/UIKit.h>
 
